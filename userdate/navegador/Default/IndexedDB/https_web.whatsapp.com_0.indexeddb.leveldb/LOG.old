@@ -1,0 +1,14 @@
+2022/04/16-10:58:43.515 da8 Creating DB C:\Users\patri\Documents\GitHub\Automacao-Whatsapp\userdate\navegador\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2022/04/16-10:58:43.654 da8 Reusing MANIFEST C:\Users\patri\Documents\GitHub\Automacao-Whatsapp\userdate\navegador\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/16-10:59:04.200 16dc Level-0 table #5: started
+2022/04/16-10:59:04.314 16dc Level-0 table #5: 1239231 bytes OK
+2022/04/16-10:59:04.340 16dc Delete type=0 #3
+2022/04/16-10:59:13.319 2d34 Level-0 table #7: started
+2022/04/16-10:59:13.355 2d34 Level-0 table #7: 1152794 bytes OK
+2022/04/16-10:59:13.365 2d34 Delete type=0 #4
+2022/04/16-10:59:13.593 d70 Compacting 1@1 + 1@2 files
+2022/04/16-10:59:13.685 d70 Generated table #8@1: 18717 keys, 1238886 bytes
+2022/04/16-10:59:13.685 d70 Compacted 1@1 + 1@2 files => 1238886 bytes
+2022/04/16-10:59:13.686 d70 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/04/16-10:59:13.687 d70 Delete type=2 #5
+2022/04/16-10:59:13.687 d70 Delete type=2 #7
