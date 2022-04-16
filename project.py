@@ -33,7 +33,7 @@ def nave_():
     global mensagem
     global driver
     for x in range(len(lst)):
-        texto = urllib.parse.quote("Oi LINDO")
+        texto = urllib.parse.quote("Oi LINDO") #AQUI É ADICIONADO O TEXTO PARA SER ENVIADO.
         driver.get(f'https://web.whatsapp.com/send?phone={lst[x]}&text={texto}')
         while len(driver.find_elements_by_id('side')) < 1:
             time.sleep(3)

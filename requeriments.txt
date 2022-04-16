@@ -1,0 +1,7 @@
+selenium
+urllib
+webdriver_manager
+
+#Para adicionar os números, vá em userdate/config/Numeros.txt -> adicione um número por linha lembrando que tem que manter o padrão -> 55'CODIGO DO PAIS' 87'DDD' 999990000'NÚMERO'
+
+#EM RELAÇÃO A IMAGEM, LEMBRE-SE DE COLOCAR A IMAGEM DENTRO DE userdate/midia, lembrando que tem que alterar o path_midia = 'logo.png' para o nome do arquivo adicionado na pasta.
